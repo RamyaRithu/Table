@@ -1,0 +1,11 @@
+table{
+    border:2px dotted black;
+    
+    text-align: center;
+
+}
+th,td{
+    border: 1px dashed rgb(29, 25, 25);
+    
+    text-align: center;
+}
